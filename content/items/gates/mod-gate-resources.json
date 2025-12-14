@@ -1,0 +1,9 @@
+{
+  "name": "Advanced Resources",
+  "description": "Unlocks advanced resource production.",
+  "color": "84f491",
+  "alwaysUnlocked": true,
+  "research": {
+    "parent": "titanium"
+  }
+}
