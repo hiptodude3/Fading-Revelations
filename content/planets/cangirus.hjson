@@ -71,5 +71,6 @@ defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
+techTree: serpulo
 hiddenItems: ["beryllium", "carbide", "tungsten", "fissile-matter", "oxide"]
 allowLaunchToNumbered: false
