@@ -1,0 +1,10 @@
+{
+  "name": "Serpulo Technology",
+  "description": "Unlocks access to Serpulo's research tree.",
+  "color": "d99d73",
+  "alwaysUnlocked": true,
+  "hardness": 1,
+  "research": {
+    "parent": "copper"
+  }
+}
